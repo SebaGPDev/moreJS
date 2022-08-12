@@ -27,15 +27,45 @@
 
 //indexOf
 
-const personas = [
-    "Susana", 
-    "Ruth",
-    "Lautaro",
-]
+// const personas = [
+//     "Susana", 
+//     "Ruth",
+//     "Lautaro",
+// ]
 
-const persona1 = "Lautaro"
-const indice = personas.indexOf(persona1)
-console.log(indice)
+// const persona1 = "Lautaro"
+// const indice = personas.indexOf(persona1)
+// console.log(indice)
 
-personas [personas.indexOf("Lautaro")]= "Ruben"
-console.log(personas)
+// personas [personas.indexOf("Lautaro")]= "Ruben"
+// console.log(personas)
+
+// //push agrega elemento al final
+// personas [personas.push("Sebastian")]
+// console.log(personas)
+
+// //pop elemina o remueve elemento
+// personas [personas.pop("Sebastian")]
+// console.log(personas)
+
+// //unshift agrega el primer elemento
+// personas [personas.unshift("Matias")]
+// console.log(personas)
+
+// //Elemina el primer elemento
+// personas [personas.shift()]
+// console.log(personas)
+
+// const meses = [
+//     "Enero",
+//     "Febrero",
+//     "Marzo",
+//     "Abril",
+// ]
+
+//splice sirve para agregar, remover
+//elemento.splice(0,0, "Enero"), Agrega en la posicion 0
+//elemento.splice(0,1, "Enero"), Remueve en la posicion 0
+
+// meses.splice(0,1,"Sebastian")
+// console.log(meses)
