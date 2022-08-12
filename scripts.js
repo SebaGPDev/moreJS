@@ -39,3 +39,6 @@
 
 //let apellido = prompt("Ingrese su apellido en minuscula")
 //alert(apellido.toUpperCase())
+
+let nombre = prompt("Ingrese su nombre en mayuscula: " )
+alert(nombre.toLowerCase())
