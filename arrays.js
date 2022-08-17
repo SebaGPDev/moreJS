@@ -44,7 +44,7 @@
 // personas [personas.push("Sebastian")]
 // console.log(personas)
 
-// //pop elemina o remueve elemento
+// //pop elemina o remueve el ultimo elemento
 // personas [personas.pop("Sebastian")]
 // console.log(personas)
 
